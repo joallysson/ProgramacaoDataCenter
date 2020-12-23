@@ -1,7 +1,7 @@
 $script_apache = <<-SCRIPT
 apt-get update
 
-apt-get install php
+#apt-get install php
 apt-get -y install apache2
 apt-get -y install puppet
 
